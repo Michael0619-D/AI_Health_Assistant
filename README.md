@@ -16,7 +16,7 @@
 
 ---
 
-> ⚠️ **Medical Disclaimer:** Health Genie is an educational project — **not** a diagnostic tool. Always consult qualified healthcare professionals for medical decisions. Emergency features do not replace calling local emergency services (e.g., **Rescue 1122 / 15** in Pakistan).
+> ⚠️ **Medical Disclaimer:** Health Genie is an educational project — **not** a diagnostic tool. Always consult qualified healthcare professionals for medical decisions. Emergency features do not replace calling local emergency services.
 
 ---
 
@@ -29,7 +29,7 @@
 | 🧘 **Wellness Coach** | Personalized fitness, nutrition, and lifestyle guidance |
 | 🧠 **Mental Health Companion** | Supportive, judgment-free mental wellness conversations |
 | 🧪 **Lab Report Analyzer** | Analyze lab results via file upload or pasted text |
-| 🚑 **Emergency First Aid Guide** | Step-by-step first aid, localized for Pakistan |
+| 🚑 **Emergency First Aid Guide** | Step-by-step first aid |
 | 📅 **Personal Health Planner** | Track appointments, medications, and health goals |
 | 🏗️ **Tech Stack Overview** | Built-in architecture and stack documentation |
 
@@ -124,7 +124,7 @@ User Input → Backend Proxy → GPT‑5 → Post-processing → Client
 
 - Persistent state (local / encrypted storage)
 - Feature toggles & model abstraction
-- Internationalization (Urdu 🇵🇰 + English 🇬🇧)
+- Internationalization 
 - Accessibility polish (ARIA landmarks & focus management)
 
 ---
@@ -227,7 +227,7 @@ netlify logs --prod
 - [ ] PDF lab report parsing
 - [ ] Offline / PWA support
 - [ ] Role-based user profiles
-- [ ] Multi-language support (Urdu)
+- [ ] Multi-language support
 
 ---
 
