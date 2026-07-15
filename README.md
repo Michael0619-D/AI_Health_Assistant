@@ -192,7 +192,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the `LICENSE` file for the specific language governing permissions and limitations.
 
-Copyright © 2025 Muhammad Atif Latif
+Copyright © 202 Michael Drew
 
 ---
 
@@ -200,34 +200,14 @@ Copyright © 2025 Muhammad Atif Latif
 # About the Author
 
 <div style="background-color: #f8f9fa; border-left: 5px solid #28a745; padding: 20px; margin-bottom: 20px; border-radius: 5px;">
-  <h2 style="color: #28a745; margin-top: 0; font-family: 'Poppins', sans-serif;">Muhammad Atif Latif</h2>
-  <p style="font-size: 16px; color: #495057;">Data Scientist & Machine Learning Engineer</p>
-  
-  <p style="font-size: 15px; color: #6c757d; margin-top: 15px;">
-    Passionate about building AI solutions that solve real-world problems. Specialized in machine learning, 
-    deep learning, and data analytics with experience implementing production-ready models.
-  </p>
+  <h2 style="color: #28a745; margin-top: 0; font-family: 'Poppins', sans-serif;">Michael Drew</h2>
+  <p style="font-size: 16px; color: #495057;">Senior Software Engineer</p>
 </div>
 
 ## Connect With Me
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-  <a href="https://github.com/m-Atif-Latif" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-212121?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.kaggle.com/matiflatif" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-atif-latif-13a171318" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/mianatif5867" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/its_atif_ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
-  <a href="mailto:muhammadatiflatif67@gmail.com">
+  <a href="mailto:michaeldrew0619@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
@@ -240,4 +220,3 @@ Feel free to reach out if you have any questions or suggestions!
 
 </div>
 
-Maintained by Muhammad Atif Latif. Clean, modular, production-ready foundation.
