@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Health Genie — AI Health Assistant
+# 🩺 Health Genie — AI Personal Health Companion
 
 **A modern, multi-module healthcare assistant for everyday health guidance**
 
