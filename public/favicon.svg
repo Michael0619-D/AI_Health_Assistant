@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Health cross background -->
+  <circle cx="32" cy="32" r="30" fill="#10b981" stroke="#059669" stroke-width="2"/>
+  
+  <!-- Medical cross -->
+  <rect x="28" y="16" width="8" height="32" fill="white" rx="2"/>
+  <rect x="16" y="28" width="32" height="8" fill="white" rx="2"/>
+  
+  <!-- Heart pulse line -->
+  <path d="M12 40 L18 40 L22 32 L26 48 L30 24 L34 44 L38 36 L42 40 L52 40" 
+        stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Small health icons -->
+  <circle cx="20" cy="20" r="2" fill="white" opacity="0.8"/>
+  <circle cx="44" cy="20" r="2" fill="white" opacity="0.8"/>
+</svg>

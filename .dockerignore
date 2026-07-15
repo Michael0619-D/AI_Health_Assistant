@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+README.md
+*.log
+.vscode
+*.tsbuildinfo
+coverage
+tmp
+.DS_Store
